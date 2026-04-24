@@ -1,0 +1,15 @@
+Reto 1 - Monkey D. Luffy (XOR):
+Robin joined the Straw Hat Pirates, claiming Luffy was responsible for her continued existence,
+
+Reto 2 - Roronoa Zoro (RC4):
+and traveled with them to Skypiea where another Poneglyph was held. There was a wall in the Shandorian ruins cryptically describing
+
+Reto 3 - Usopp (PRNG Stream Cipher):
+the location of the Poneglyph in the same runes that the Poneglyphs themselves were inscribed with.
+
+Reto 4 - Nami (ChaCha20):
+telling further researchers to keep going forward. According to Gan Fall, he had no idea when or how Roger managed to reach the Poneglyph on top of Giant Jack.
+
+---
+Texto completo del Poneglyph
+Robin joined the Straw Hat Pirates, claiming Luffy was responsible for her continued existence, and traveled with them to Skypiea where another Poneglyph was held. There was a wall in the Shandorian ruins cryptically describing the location of the Poneglyph in the same runes that the Poneglyphs themselves were inscribed with. telling further researchers to keep going forward. According to Gan Fall, he had no idea when or how Roger managed to reach the Poneglyph on top of Giant Jack.

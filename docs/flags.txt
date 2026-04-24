@@ -1,0 +1,11 @@
+Reto 1 - Monkey D. Luffy (XOR):
+FLAG_736b0fdbb040a9bba867eb6d0feb4c1c
+
+Reto 2 - Roronoa Zoro (RC4):
+FLAG_fc278347c746eea4012d5bafde5a5aaa
+
+Reto 3 - Usopp (PRNG Stream Cipher):
+FLAG_a0756186112d74600cb1b142a802721e
+
+Reto 4 - Nami (ChaCha20):
+FLAG_ddc0c1843ae1303c72c85d39b3de0513
